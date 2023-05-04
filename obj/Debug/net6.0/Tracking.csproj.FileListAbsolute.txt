@@ -1,0 +1,15 @@
+C:\Users\silvio.kinaake\Tracking\bin\Debug\net6.0\Tracking.exe
+C:\Users\silvio.kinaake\Tracking\bin\Debug\net6.0\Tracking.deps.json
+C:\Users\silvio.kinaake\Tracking\bin\Debug\net6.0\Tracking.runtimeconfig.json
+C:\Users\silvio.kinaake\Tracking\bin\Debug\net6.0\Tracking.dll
+C:\Users\silvio.kinaake\Tracking\bin\Debug\net6.0\Tracking.pdb
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.csproj.AssemblyReference.cache
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.AssemblyInfoInputs.cache
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.AssemblyInfo.cs
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.csproj.CoreCompileInputs.cache
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.dll
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\refint\Tracking.dll
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.pdb
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\Tracking.genruntimeconfig.cache
+C:\Users\silvio.kinaake\Tracking\obj\Debug\net6.0\ref\Tracking.dll
